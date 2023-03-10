@@ -16,7 +16,7 @@ THIS IS is done in the Global tool configuration tab in jenkins
      and modify the following:
       put in your password and user name.
       server url. (please dont change the url)
-
+this is bella ruwiz on devops training
 
 
 
