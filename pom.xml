@@ -22,9 +22,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.223.77.223:9000/</sonar.host.url>
-		<sonar.login>azar</sonar.login>  
-		<sonar.login>aca81ca089f30342700d73368974abee076184a6</sonar.login>
+		<sonar.host.url>http://3.90.114.198:9000/</sonar.host.url>
+		<sonar.login>bella</sonar.login>  
+		<sonar.login>ce90f706e336d7bf293881a7328b1d7653c8aa51</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>bella-release</name>
-	      <url>http://localhost:8081/repository/louisa-release/</url>
+	      <url>http://54.234.213.197:8081/repository/bella-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>bella-snapshot  </name>
-	      <url>http://54.144.218.35:8081/repository/bella-release/</url>
+	      <url>http://54.234.213.197:8081/repository/bella-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -150,3 +150,5 @@
 	
 	
 </project>
+
+
