@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>LION TECH ACADEMY Releases Nexus Repository</name>
+	      <name>bella-release</name>
 	      <url>http://localhost:8081/repository/louisa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/lesson-snapshot/</url>
+	      <name>bella-snapshot  </name>
+	      <url>http://54.144.218.35:8081/repository/bella-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
